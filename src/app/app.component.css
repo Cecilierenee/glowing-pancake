@@ -1,0 +1,10 @@
+h2 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+.contact-card {
+    border: 3px red solid;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
